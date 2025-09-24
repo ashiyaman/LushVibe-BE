@@ -4,8 +4,6 @@ const {connectDb} = require("./config/database")
 
 const app = express()
 
-
-
 app.use("/", (req, res) => {
     res.send("Welcome to LushVibe Backend Server")
 })
