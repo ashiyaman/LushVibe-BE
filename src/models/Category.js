@@ -4,7 +4,7 @@ const categorySchema = new mongoose.Schema({
     name: {
         type: String,
         enum: {
-            value: ["Eyes", "Lips", "Face", "Hair", "Fragrance", "Skincare", "Nails"],
+            values: ["Eyes", "Lips", "Face", "Hair", "Fragrance", "Skincare", "Nail"],
             message: '{VALUE} is not accepted category name.'
         },
         required: true
