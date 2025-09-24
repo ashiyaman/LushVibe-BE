@@ -51,12 +51,12 @@ Visit the live demo at: [https://lushvibe-demo.com](https://lushvibe-demo.com)
 
 Clone the repository and install dependencies:
 
-git clone https://github.com/yourusername/lushvibe.git
+```
+git clone https://github.com/yourusername/lushvibe.git 
 cd lushvibe
 npm install
 npm start
-
-
+```
 
 The application will run on `http://localhost:3000`.
 
@@ -77,12 +77,6 @@ The application will run on `http://localhost:3000`.
 
 Feel free to fork, create branches, and submit pull requests.  
 Please follow code style guidelines.
-
----
-
-## License
-
-This project is licensed under the MIT License.
 
 ---
 
