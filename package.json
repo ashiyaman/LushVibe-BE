@@ -1,0 +1,19 @@
+{
+  "name": "lushvibe-be",
+  "version": "1.0.0",
+  "description": "Feel Rich. Shine Bright. Own Your Vibe.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "react"
+  ],
+  "author": "Ashiya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
